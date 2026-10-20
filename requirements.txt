@@ -22,3 +22,5 @@ seaborn
 scipy
 torch
 torchvision
+# selectolax 1.0.1 (used by mkdocs-glightbox) strips every <img> from the built site; keep 1.0.0
+selectolax==1.0.0
