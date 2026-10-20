@@ -5,3 +5,6 @@ env/
 target/
 __pycache__/
 *.pyc
+
+# MNIST downloaded by the VAE exercise
+data/
